@@ -1,0 +1,18 @@
+<html>
+  <head></head>
+  <body>
+    <div class="container">
+      <div class="question">
+        <%= @question %>
+        <p><em>-You</em></p>
+      </div>
+
+      <div class="answer">
+        <strong><%= @answer %></strong>
+        <p><em>-Your coach</em></p>
+      </div>
+
+      <%= link_to 'Ask a new question', '/ask' %>
+    </div>
+  </body>
+</html>
