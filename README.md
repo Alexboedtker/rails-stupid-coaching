@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+First Rails Challenge during the Le Wagon bootcamp:
 
-Things you may want to cover:
+Objective: Implement a simple Rails application with 2 pages:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1.) A form with an input, where a user can type a question to ask the Coach
+2.) After submitting the form, the user is redirected to another page where they will see their question and the coach's answer.
